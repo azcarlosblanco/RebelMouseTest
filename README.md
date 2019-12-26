@@ -1,12 +1,7 @@
-# Rebelmousetest readme
+# RebelMouseTest readme
 
 Generated on 2019-12-26 using
 [generator-yeogurt@3.0.1](https://github.com/larsonjj/generator-yeogurt)
-
-## Description
-
-This is an example readme file.
-Describe your site/app here.
 
 ## Technologies used
 
